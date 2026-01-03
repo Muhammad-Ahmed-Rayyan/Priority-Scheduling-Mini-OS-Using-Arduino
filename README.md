@@ -4,9 +4,7 @@
 
 *Simulating Core Operating System Scheduling Concepts on Embedded Hardware*
 
-![Arduino](https://img.shields.io/badge/Arduino-Uno-blue)
 ![C++](https://img.shields.io/badge/Language-C%2B%2B-orange)
-![OS](https://img.shields.io/badge/Concept-Operating%20Systems-green)
 ![Last Commit](https://img.shields.io/github/last-commit/Muhammad-Ahmed-Rayyan/Priority-Scheduling-Mini-OS-Using-Arduino)
 
 <br>
@@ -15,8 +13,7 @@ Built with the tools and technologies:
 
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Embedded](https://img.shields.io/badge/Embedded%20Systems-black?style=for-the-badge)
-![I2C](https://img.shields.io/badge/I2C%20LCD-blue?style=for-the-badge)
+
 
 </div>
 
@@ -116,8 +113,7 @@ System activity is visualized using:
 
 Priority-Scheduling-Mini-OS-Using-Arduino/
 │
-├── Arduino_Code/
-│ └── Arduino.txt
+├── Arduino.txt
 └── README.md
 
 
@@ -126,27 +122,16 @@ Priority-Scheduling-Mini-OS-Using-Arduino/
 ## ▶️ How to Run
 
 1. Open **Arduino IDE**
-2. Navigate to:
-  Arduino_Code/Arduino.txt
-
-3. Connect Arduino Uno
+2. Paste the arduino.txt code in sketch
+3. Connect Arduino Uno board
 4. Upload the code
 5. Adjust potentiometer to change task priority
 6. Press button to trigger **manual reset interrupt**
 
 ---
 
-## 🏁 Conclusion
+<div align="center">
 
-This project successfully demonstrates **priority-based scheduling** and **preemptive execution** in a simplified embedded environment, making Operating System concepts **tangible, visual, and interactive**.
+⭐ If you like this project, give it a star on GitHub!
 
-It serves as an excellent **academic and learning-oriented OS mini project**.
-
----
-
-## 👨‍💻 Authors
-
-- **Muhammad Ahmed Rayyan**
-- **Namish Binte Khurshid**
-
----
+</div>
